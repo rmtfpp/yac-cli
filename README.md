@@ -1,6 +1,6 @@
-# YAC - Yet Another Calculator
+# YAC-CLI - Yet Another Calculator
 
-YAC is a command-line calculator for evaluating mathematical expressions and functions over a specified range with given steps.
+YAC-CLI is a command-line calculator for evaluating mathematical expressions and functions over a specified range with given steps.
 
 ## Installation
 
